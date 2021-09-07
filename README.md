@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikhilsinghns07
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning FrontEnd web. 
 - 📫 How to reach me - nikhilsinghns01@gmail.com
 
 <!---
