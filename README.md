@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nikhilsinghns07
 - 👀 I’m a web developer.
 - 📫 How to reach me - nikhilsinghns01@gmail.com
+- LinkedIn : https://www.linkedin.com/in/nikhilsinghns07/
 - Tools I use : React.js , JavaScript , Nodejs , JavaScript , MongoDB ,  HTML5 , CSS3.
 
 <!---
