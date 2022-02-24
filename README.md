@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nikhilsinghns07
-- 👀 I’m a Web and Android Developer.
+- MERN Stack 
+- 👀 I’m a Full Stack Web and Android Developer.
 - 📫 How to reach me - nikhilsinghns01@gmail.com
 - LinkedIn : https://www.linkedin.com/in/nikhilsinghns07/
 - Tools I use : React.js , JavaScript , Nodejs  , React Native , MongoDB ,  HTML5 , CSS3.
