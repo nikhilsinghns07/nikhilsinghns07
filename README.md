@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilsinghns07
 - MERN Stack
-- 👀 I’m a Full Stack Web and Android Developer.
+- 👀 I’m a Web and Android Developer.
 - 📫 How to reach me - nikhilsinghns01@gmail.com
 - LinkedIn : https://www.linkedin.com/in/nikhilsinghns07/
 - Technologies I use : React.js , JavaScript , Nodejs  , React Native , MongoDB,Firebase,  HTML5 , CSS3 , React-Bootstrap, socket.io, Material UI, Git, Postman.
