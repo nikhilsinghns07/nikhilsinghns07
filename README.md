@@ -3,7 +3,7 @@
 - 👀 I’m a Full Stack Web and Android Developer.
 - 📫 How to reach me - nikhilsinghns01@gmail.com
 - LinkedIn : https://www.linkedin.com/in/nikhilsinghns07/
-- Technologies I use : React.js , JavaScript , Nodejs  , React Native , MongoDB ,  HTML5 , CSS3 , React-Bootstrap, socket.io, Material UI, Git, Postman.
+- Technologies I use : React.js , JavaScript , Nodejs  , React Native , MongoDB,Firebase,  HTML5 , CSS3 , React-Bootstrap, socket.io, Material UI, Git, Postman.
 - Other Programming Languages : Python , C .
 - Blog Application : https://nikhilsingh07.herokuapp.com/blog
 - Website : https://nikhilsingh07.herokuapp.com/
