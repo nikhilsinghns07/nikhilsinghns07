@@ -13,7 +13,7 @@
 - Technologies I use : React.js , JavaScript , Nodejs  , React Native , MongoDB, Firebase,  HTML5 , CSS3 , React-Bootstrap, socket.io, Material UI, Git, Postman.
 - Programming Languages : Python , C, JavaScript .
 
-- Blog Application : https://nikhilsingh07.herokuapp.com/blog
+- Blog Application : https://nikhilsingh.vercel.app/blog
 
 - Website : https://nikhilsinghns07.github.io/ns/
 
