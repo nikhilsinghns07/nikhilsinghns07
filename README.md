@@ -15,7 +15,9 @@
 
 - Blog Application : https://nikhilsingh.vercel.app/blog
 
-- Website : https://nikhilsinghns07.github.io/ns/
+- Landing Page : https://nikhilsinghns07.github.io/ns/
+
+-  Website : http://nikhilsingh07.co.in/
 
 <!---
 nikhilsinghns07/nikhilsinghns07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
