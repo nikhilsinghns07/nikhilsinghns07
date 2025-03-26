@@ -1,60 +1,56 @@
-# 👋 Hi, I'm Nikhil Singh
 
-## Who am I?
+# 👋 Hey, I'm **Nikhil Singh**  
+🚀 **Full Stack Developer | Mobile Developer | MERN Stack | React Native | AWS | AI Integration**  
 
-I am a versatile professional with a passion for technology and a knack for creating digital solutions. Here's a bit about me:
+I am a **results-driven Full Stack Developer** with **2+ years of experience** in **building scalable web and mobile applications**. I specialize in **high-performance solutions**, optimizing **user experience**, and delivering **top-tier applications** for businesses and startups worldwide.  
 
-- **Role**: Full Stack Web Developer | Mobile Developer | Technical Writer
-  
-- **Services I Offer**:
-  - Web Development
-  - Mobile App Development
-  - Technical Writing
+---
 
-## 💼 Services and Skills
+## 💡 **What I Do**  
 
-### Web Development
-I specialize in crafting dynamic and responsive web applications. My toolbox includes:
+### 🌍 **Web Development**  
+I build **scalable, high-performance web applications** with:  
+✅ **Frontend:** React.js, Next.js, JavaScript, EJS, TailwindCSS, Material UI, React-Bootstrap  
+✅ **Backend:** Node.js, Express.js  
+✅ **Databases:** MongoDB, Firebase  
+✅ **Other Skills:** REST APIs, Socket.io, Git, Postman, Figma  
 
-- Technologies: React.js, JavaScript, Node.js,Next.Js, EJS
-- Databases: MongoDB, Firebase
-- Frontend Libraries: HTML5, CSS3, React-Bootstrap, Material UI,TailwindCSS, Semantic UI
-- Additional Skills: Socket.io, Git, Postman,Figma
+### 📱 **Mobile App Development**  
+I develop **feature-rich, user-friendly mobile apps** using:  
+✅ **Frameworks:** React Native  
+✅ **Tools:** JavaScript, Expo CLI, Android Studio  
+✅ **Backend & Databases:** Node.js, MongoDB, Firebase  
+✅ **UI Libraries:** React Native Paper, Material UI  
 
-### Mobile App Development
-Building feature-rich Android applications is my forte. I work with:
+---
 
-- Frameworks: React Native
-- Tools: JavaScript,Android Studio, Expo CLI
-- Backend: Node.js
-- Database: MongoDB, Firebase
-- UI/UX Libraries: React Native Paper, Material UI
+## 🌟 **Featured Portfolio & Projects**  
 
-### Technical Writing
-I have a knack for explaining complex tech concepts in simple terms. I offer:
+- **AI Falcon POS** – A smart point-of-sale system with AI integration, allowing businesses to streamline transactions while offering seamless Square payment processing.  
+- **EgTeam LMS** – A comprehensive learning management system enabling educators to create, manage, and track courses, assignments, and student progress.  
+- **HR App for Warley Store** – A fully functional HR management system, including employee attendance tracking, leave management, and payroll integration.  
+- **Dating App** – A modern dating and social networking platform with AI-powered matchmaking and real-time chat functionality.  
+- **Prime Removals & Storage** – A web-based platform for logistics and storage management, ensuring smooth booking and tracking of moving services.  
 
-- Documentation Creation
-- Clear and Concise Content
-- Suitable for Diverse Audiences
+✔ **More projects available upon request!**  
 
-## 📫 Contact Me
-Feel free to reach out:
+---
 
-- Email: [nikhilsinghns01@gmail.com](mailto:nikhilsinghns01@gmail.com)
-- LinkedIn: [linkedin.com/in/nikhilsinghns07](https://www.linkedin.com/in/nikhilsinghns07/)
+## 🎯 **Why Work With Me?**  
 
-## 🌐 Portfolio and More
-- Blog Application: [nikhilsingh07.co.in/blog](https://nikhilsingh07.co.in/blog)
-- Landing Page: [nikhilsinghns07.github.io/ns/](https://nikhilsinghns07.github.io/ns/)
-- Website: [nikhilsingh07.co.in](http://nikhilsingh07.co.in/)
+✔ **Proven Track Record** – Delivered successful projects for multiple clients  
+✔ **Full Stack Expertise** – Capable of handling everything from **frontend UI** to **backend APIs & databases**  
+✔ **AI & Fintech Integration** – Experience in building **AI-powered** & **financial solutions**  
+✔ **User-Centric Approach** – Crafting intuitive and engaging applications that enhance user experience  
+✔ **Agile & Efficient** – Rapid prototyping and fast delivery while maintaining **high-quality standards**  
 
-## About Me
-I am based in Patna, Bihar, India, and bring over 2 years of freelancing experience from Upwork. I am dedicated to delivering top-notch solutions tailored to my clients' needs, be it web and mobile app development, designing responsive user interfaces, or creating technical documentation. Excellence is my standard.
+---
 
-Let's collaborate to bring your digital visions to life!
+## 📩 **Let's Connect & Build Something Amazing!**  
 
+📧 **Email:** nikhilsinghns01@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/nikhilsinghns07  
 
-<!---
-nikhilsinghns07/nikhilsinghns07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 **Looking for a skilled full-stack developer? Let’s collaborate and bring your ideas to life!** 🚀  
+
+---
